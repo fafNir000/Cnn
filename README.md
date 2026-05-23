@@ -7,9 +7,11 @@ CIFAR10 from Kaggle (you need to use kaggle.json)
 https://www.kaggle.com/competitions/cifar-10/data
 
 Train samples :: 40000
+
 Validation samples :: 10000
+
 Test samples :: 10000
-------------------------------------
+
 Number of classes :: 10
 Classes list ::
 0 :։ class airplane
