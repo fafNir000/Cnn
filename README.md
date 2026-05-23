@@ -1,4 +1,4 @@
-# CNN using ResNet-18
+# CNN: using ResNet-18 for CIFAR10
 
 ## Dataset
 
