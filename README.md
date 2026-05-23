@@ -22,8 +22,8 @@ https://www.kaggle.com/competitions/cifar-10/data
            9       0.97      0.96      0.97      1000
 
     accuracy                           0.95     10000
-   macro avg       0.95      0.95      0.95     10000
-weighted avg       0.95      0.95      0.95     10000
+    macro avg       0.95      0.95      0.95     10000
+    weighted avg       0.95      0.95      0.95     10000
 
 ## Best Model weights
 
