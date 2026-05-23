@@ -50,6 +50,7 @@ Epoch 20/20 | Train Loss: 0.0010843007104936987 | Val Loss: 0.16004624196393474 
 ## Metrics
 
 Final Test Accuracy: 95.34
+
 <img width="500" height="369" alt="image" src="https://github.com/user-attachments/assets/fd6d625b-2430-4341-af76-12d9b288533c" />
 <img width="489" height="371" alt="image" src="https://github.com/user-attachments/assets/120d33e3-2038-4fdd-a864-43acab14e6bc" />
 <img width="756" height="681" alt="image" src="https://github.com/user-attachments/assets/3a219d4c-793e-4cd3-8440-16b5b0205086" />
