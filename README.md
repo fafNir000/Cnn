@@ -1,10 +1,10 @@
 # CNN using ResNet-18
 
-##Dataset
+## Dataset
 
 CIFAR10 from Kaggle (you need to use kaggle.json)
 
-##Metrics
+## Metrics
 
               precision    recall  f1-score   support
 
