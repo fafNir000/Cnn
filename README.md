@@ -4,6 +4,8 @@
 
 CIFAR10 from Kaggle (you need to use kaggle.json)
 
+https://www.kaggle.com/competitions/cifar-10/data
+
 ## Metrics
 
               precision    recall  f1-score   support
