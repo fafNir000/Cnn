@@ -1,7 +1,7 @@
 # CNN using ResNet-18
-###Dataset
+##Dataset
 CIFAR10 from Kaggle (you need to use kaggle.json)
-###Metrics
+##Metrics
               precision    recall  f1-score   support
 
            0       0.96      0.97      0.96      1000
@@ -22,7 +22,3 @@ weighted avg       0.95      0.95      0.95     10000
 ## Best Model weights
 
 https://drive.google.com/file/d/1Ep1ufOWpEYx65Lk1e3Xso7b1_6oaNQvM/view?usp=sharing
-
-## Resnet
-
-https://drive.google.com/file/d/1oLz0l6mxZCIfRBqvBUvwDVgm39eGYQh3/view?usp=sharing
