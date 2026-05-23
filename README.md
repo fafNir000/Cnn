@@ -1,7 +1,11 @@
 # CNN using ResNet-18
+
 ##Dataset
+
 CIFAR10 from Kaggle (you need to use kaggle.json)
+
 ##Metrics
+
               precision    recall  f1-score   support
 
            0       0.96      0.97      0.96      1000
